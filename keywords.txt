@@ -1,0 +1,29 @@
+# Syntax Coloring for CRIR_M1_UART Library
+# Datatypes (KEYWORD1)
+CRIR_M1	KEYWORD1
+CRIR_M1_sensor	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+get_serial_number	KEYWORD2
+get_software_version	KEYWORD2
+get_co2	KEYWORD2
+get_temperature	KEYWORD2
+get_ABC_period	KEYWORD2
+set_ABC_period	KEYWORD2
+get_user_concentration	KEYWORD2
+set_user_concentration	KEYWORD2
+set_user_acknowledgement	KEYWORD2
+set_user_special_command	KEYWORD2
+get_meter_status	KEYWORD2
+get_output_status	KEYWORD2
+get_PWM_output	KEYWORD2
+get_sensor_type_ID	KEYWORD2
+get_sensor_ID	KEYWORD2
+get_memory_map_version	KEYWORD2
+
+# Constants (LITERAL1)
+CRIR_M1_LEN_SN	LITERAL1
+CRIR_M1_LEN_SOFTVER	LITERAL1
+CRIR_M1_CLEAR_CALIBRATION_COMPLETION	LITERAL1
+CRIR_M1_START_USER_CALIBRATION	LITERAL1
+CRIR_M1_CALIBRATION_COMPLETED	LITERAL1
